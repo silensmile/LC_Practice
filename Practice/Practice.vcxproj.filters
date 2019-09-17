@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冰激凌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表两数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分法两有序数组中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分法平方根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分法排列硬币.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分法有序数组单一元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针两数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针反转字符串元音.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针两数平方和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针验证回文字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针合并有序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针环形链表判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="双指针删除字符并匹配词典.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="滑块求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序前K高频元素优先队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构栈实现队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构队列实现栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构栈判断有效的括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构栈下个大元素距离(每日温度).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构栈下一个更大元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构栈下个更大元素%28环%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构表最长和谐子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构栈最小值栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串有效的字母异位词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串同构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构链表相交.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构链表反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构链表合并两个有序链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构链表删除重复元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构链表回文.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构树最大深度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构树反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构树合并二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构树路径总和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据结构树路径总和2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
