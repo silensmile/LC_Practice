@@ -126,7 +126,10 @@
     <ClCompile Include="数据结构树路径总和2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="排序两个元素的交集.cpp">
+    <ClCompile Include="排序两个数组的交集2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序两个数组的交集.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
