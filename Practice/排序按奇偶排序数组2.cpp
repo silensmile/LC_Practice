@@ -6,7 +6,7 @@ using namespace std;
 
 vector<int> sortArrayByParityII(vector<int>& A) {
     vector<int> ans(A.size());
-    int odd = 0,even = 0;
+    int odd = 1,even = 0;
     map<int,int> cnt;
     for (auto i : A)
         cnt[i]++;

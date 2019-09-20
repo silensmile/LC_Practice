@@ -135,6 +135,12 @@
     <ClCompile Include="排序按奇偶排序数组2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="排序三角形的最大周长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序距离顺序排列矩阵单元格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h">

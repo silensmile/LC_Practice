@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    cout << "\{" << endl;
+    llargestPerimeterTest();
     system("pause");
     return 0;
 }
