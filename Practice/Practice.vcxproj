@@ -159,6 +159,7 @@
     <ClCompile Include="双指针验证回文字符串.cpp" />
     <ClCompile Include="字符串同构.cpp" />
     <ClCompile Include="字符串有效的字母异位词.cpp" />
+    <ClCompile Include="排序两个元素的交集.cpp" />
     <ClCompile Include="排序前K高频元素优先队列.cpp" />
     <ClCompile Include="数据结构栈最小值栈.cpp" />
     <ClCompile Include="数据结构树反转.cpp" />
